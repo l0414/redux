@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.60be7239.css","mappings":"AAAA,OAEE,cAAe,CAGf,cAAe,CADf,WAAY,CAHZ,aAAc,CAEd,WAGF","sources":["App.css"],"sourcesContent":["button {\r\n  margin: 0 10px;\r\n  cursor: pointer;\r\n  width: 100px;\r\n  height: 30px;\r\n  font-size: 20px;\r\n}\r\n"],"names":[],"sourceRoot":""}
